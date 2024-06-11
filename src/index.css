@@ -1,0 +1,26 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.container{
+
+  padding:  1rem 5rem;
+}
+.btn{
+  padding: .8rem 3rem;
+  background-color: #8b0000;
+  border-radius: 10px;
+  color: white;
+  font-size: 1rem;
+  font-weight: 500;
+}
+.btm{
+  padding: .8rem 3rem;
+  background-color: #44160a;
+  border-radius: 10px;
+  border: 2px solid #44160a ;
+  color: white;
+  font-size: 1rem;
+  font-weight: 500;
+}
+/* -----------------------Plan-Card---------------------------- */
